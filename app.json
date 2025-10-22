@@ -40,6 +40,10 @@
         }
       ]
     ],
+     "assetBundlePatterns": ["**/*"],
+    "fonts": {
+      "TAN-NIMBUS": "./assets/fonts/TAN-NIMBUS.otf"
+    },
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
